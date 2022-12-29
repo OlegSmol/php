@@ -59,7 +59,7 @@
     co стилями, описанными в переменных.');
     
     $font_family = 'Arial';
-    $font_size = '60px';
+    $font_size = '50px';
     $font_style = 'italic';
     
     echo '<br/>font-family: ' . $font_family . "<br/>";
