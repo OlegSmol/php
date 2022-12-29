@@ -59,21 +59,15 @@
     co стилями, описанными в переменных.');
     
     $font_family = 'Arial';
-<<<<<<< HEAD
     $font_size = '50px';
-=======
     $font_size = '60px';
->>>>>>> 4a867ca9333f5ae3f1d55d82403a9bce87718cf3
     $font_style = 'italic';
     
     echo '<br/>font-family: ' . $font_family . "<br/>";
     echo 'font-size: ' . $font_size . "<br/>";
     echo 'font-style: ' . $font_style . "<br/>";
-<<<<<<< HEAD
     echo '<p style="font-family:' . $font_family . '; font-size:' . $font_size . '; font-style:' . $font_style . '">Hello</p>';
-=======
     echo '<p style="font-family:Arial; font-size:60px; font-style:italic">Hello</p>';
->>>>>>> 4a867ca9333f5ae3f1d55d82403a9bce87718cf3
     
 ?>
 
