@@ -65,7 +65,7 @@
     echo '<br/>font-family: ' . $font_family . "<br/>";
     echo 'font-size: ' . $font_size . "<br/>";
     echo 'font-style: ' . $font_style . "<br/>";
-    echo '<p style="font-family:Arial; font-size:60px; font-style:italic">Hello</p>';
+    echo '<p style="font-family:' . $font_family . '; font-size:' . $font_size . '; font-style:' . $font_style . '">Hello</p>';
     
 ?>
 
