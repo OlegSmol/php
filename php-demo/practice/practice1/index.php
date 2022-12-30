@@ -59,7 +59,6 @@
     co стилями, описанными в переменных.');
     
     $font_family = 'Arial';
-    $font_size = '50px';
     $font_size = '60px';
     $font_style = 'italic';
     
@@ -67,7 +66,6 @@
     echo 'font-size: ' . $font_size . "<br/>";
     echo 'font-style: ' . $font_style . "<br/>";
     echo '<p style="font-family:' . $font_family . '; font-size:' . $font_size . '; font-style:' . $font_style . '">Hello</p>';
-    echo '<p style="font-family:Arial; font-size:60px; font-style:italic">Hello</p>';
     
 ?>
 
